@@ -16,16 +16,6 @@ The project uses two main data files:
 
 ## Key Features
 
-### Data Transformations
-- Week-on-Week Revenue Analysis
-  - Current week revenue calculation
-  - Previous week revenue calculation
-  - Week-on-Week revenue difference
-
-### Customer Segmentation
-- Age Group Analysis
-- Income Group Analysis
-
 ### Dashboards
 
 #### 1. Credit Card Transaction Analysis Dashboard
